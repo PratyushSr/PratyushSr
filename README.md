@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratyush! I am a Game Developer that primarily works with C++ and Visual Blueprint Scripting for Unreal Engine 4 and 5. 
 - I’m currently working on:
   - Patriarcs and the Monster Caravan, an Indie Title by Adonai Games (Formerly YHWH GAMES!)
-  - Re-IsoJack, a passion project by Autumnrealm.
+
 - I've Worked on 
   - Holevo's Bound: Planet Meltdown, a 2.5D Side Scroller for Epic Games' MegaJam 2021. You can play it here: https://generalsoundwave.itch.io/holevos-bound
 
@@ -15,4 +15,5 @@ I hope you have a wonderful day ahead and if you're interesting in learning more
 <!---
 PratyushSr/PratyushSr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+  - Re-IsoJack, a passion project by Autumnrealm.
 --->
