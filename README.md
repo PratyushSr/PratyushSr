@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Pratyush! I am a Game Developer that primarily works with C++ and Visual Blueprint Scripting for Unreal Engine 4 and 5. 
 - I’m currently working on:
-  MiCEA CAPTURE, A revolutionary Agriculture-Tech product that monitors and controls plant growth for resource optimized usage and accelerated growth.
+  MiCEA CAPTURE, A revolutionary Agriculture-Tech product that monitors and controls plant growth for resource optimized usage and accelerated growth
+  Utilizes Python on RaspberryPi to measure sensor data such as temperature, humidity, pressure,pH, EC, TDS, PPFD and light intensity.
+  Frontend with Flask with controllable actuators and realtime monitoring
+
 
 - I've Worked on
   - Patriarcs and the Monster Caravan, an Indie Title by Adonai Games (Formerly YHWH GAMES!)
